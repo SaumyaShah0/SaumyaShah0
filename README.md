@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaumyaShah0
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on projects for FrontEnd
+- 💞️ I’m looking to collaborate on projects on FrontEnd
 - 📫 How to reach me :- saumyashah516@gmail.com , saumyashah630@gmail.com
 
 <!---
