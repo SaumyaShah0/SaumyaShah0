@@ -24,26 +24,5 @@
 
 ---
 
-### 🎨 Animated Introduction
-
-<div style="text-align: center;">
-    <h2 style="animation: fadeIn 2s;">Welcome to My GitHub Profile!</h2>
-    <p style="animation: slideIn 2s;">I love coding and creating amazing projects!</p>
-</div>
-
-<style>
-@keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-}
-
-@keyframes slideIn {
-    from { transform: translateY(-20px); opacity: 0; }
-    to { transform: translateY(0); opacity: 1; }
-}
-</style>
-
-<!---
-SaumyaShah0/SaumyaShah0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🎨 Welcome to My GitHub Profile!
+I love coding and creating amazing projects!
