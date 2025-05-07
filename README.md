@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Saumya Shah
 
 ### 🌱 About Me
-- 🌍 I’m based in Ahmedabad
+- 🌍 I’m based in **Ahmedabad**
 - 💻 I’m passionate about **Web Development** and **Data Science**
 - 📚 Currently learning **Angular** and enhancing my skills in **Python for Data Science**
 
