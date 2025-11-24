@@ -1,54 +1,81 @@
-# 🚀 Saumya Shah — Robotics & AI Engineer in the Making  
+<!-- INTRO ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Saumya+Shah;M.Tech+in+Robotics+%26+AI+Student;Robotics+%7C+AI+%7C+ML+%7C+Automation;Always+Building+Something+Cool" alt="Typing SVG" />
+</p>
 
-### 🤖 M.Tech in Robotics & Artificial Intelligence  
+---
+
+<!-- ROBOTICS BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/9eR1Sdk.jpeg" width="800">
+</p>
+
+---
+
+# 🤖 Saumya Shah — Robotics & AI Engineer in the Making  
+
+### 🎓 M.Tech in Robotics & Artificial Intelligence  
 **Nirma University (2025–2027)**  
-Building intelligent systems that *think*, *sense*, and *move*.
+
+> Building intelligent machines that *think*, *sense*, and *interact* with the world.
 
 ---
 
-## 🌟 About Me  
-I’m a tech enthusiast driven by curiosity for **robots, algorithms, and intelligent automation**.  
-From writing clean software to controlling robotic arms, I love creating systems that bridge the gap between the digital and physical world.
+## ⚡ About Me  
+I’m passionate about **robotics, AI, intelligent control systems, and automation**.  
+My work blends mechanical motion with smart algorithms — creating systems that solve real-world problems.
 
 ---
 
-## 🔥 What I’m Currently Exploring  
-- 🤖 **Robot Manipulators & Mobile Robots**  
-- 🧠 **Reinforcement Learning & Deep Learning**  
-- 🎯 **Optimization & Control Systems**  
-- 📸 **Digital Image Processing**  
-- 💻 Full-stack development for robotics dashboards & tools  
+## 🔥 What I’m Exploring  
+- 🤖 Robot Manipulators, Kinematics & Dynamics  
+- 🧠 Deep Learning & Reinforcement Learning  
+- 🔧 Control Systems & Optimization  
+- 📡 Sensors, SBCs, and Embedded Robotics  
+- 👁️ Image Processing & Perception Systems  
 
 ---
 
-## 🛠️ Featured Projects  
-- 🔹 **Robot Arm Control & Simulation** — Kinematics, control, and real-time manipulation  
-- 🔹 **Quiz App (API-Based)** — Dynamic category selection, result analytics  
-- 🔹 **Weather Forecasting Web App** — Built during internship at ProdigyInfotech  
-- 🔹 *More M.Tech projects coming soon…*  
+## 🛠️ Tech Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,pytorch,linux,raspberrypi,arduino,git,github,react,nodejs,js" />
+</p>
 
 ---
 
-## 💼 Experience  
-- **ProdigyInfotech – Software Intern** *(Jan 2024 – Feb 2024)*  
-- **TatvaSoft – Developer Intern** *(May 2024 – Jun 2024)*  
+## 🌐 Socials  
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=twitter"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=discord"></a>
+</p>
 
 ---
 
-## 🏆 Certifications  
-- C Programming – GCTI  
-- C++ Programming – GCTI  
-- Python for Data Science – NPTEL  
+## 💻 Featured Projects  
+- 🤖 **Robot Arm Control & Simulation** – Forward + Inverse Kinematics, control loops  
+- 🧠 **AI/ML Projects** – Classifiers, regressors, and perception models  
+- 🌐 **Quiz App** – API-based dynamic quiz system  
+- ☁️ **Weather App** – Built during internship at ProdigyInfotech  
 
 ---
 
-## 📬 Let’s Connect  
-- 📧 **Email:** saumyashah516@gmail.com  
-- 🔗 **LinkedIn:** *(add your link)*  
-- 🐦 **X (Twitter):** *(add your link)*  
+## ✨ Aesthetic Robotics Wallpaper  
+<p align="center">
+  <img src="https://i.imgur.com/sx7LkXl.jpeg" width="600">
+</p>
 
 ---
 
-## 🌌 Thanks for visiting!  
-I’m constantly building, learning, and improving.  
-**Exciting robotics & AI projects are on the way — stay tuned.**
+## 🟩 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<h2 align="center">🔥 Thanks for Visiting 🔥</h2>
+<p align="center">
+  <img src="https://i.imgur.com/DS0cZ8b.gif" width="300">
+</p>
