@@ -69,7 +69,6 @@ into **real-world robotic solutions**.
 
 ---
 
-## 🎨 Robotics Aesthetic Image  
 <p align="center">
   <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robotic-desk.webp" width="600">
 </p>
@@ -85,5 +84,5 @@ into **real-world robotic solutions**.
 
 <h2 align="center">⚡ Thanks for Visiting ⚡</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robot-wave.webp" width="300">
+  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robot-wave.webp" width="600">
 </p>
