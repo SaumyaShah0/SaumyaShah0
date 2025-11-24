@@ -53,10 +53,10 @@ into **real-world robotic solutions**.
 
 ## 🌐 Socials  
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=twitter"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram"></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=discord"></a>
+  <a href="https://www.linkedin.com/in/saumya-shah-40a4ba285/"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://x.com/saumya_shah_1"><img src="https://skillicons.dev/icons?i=twitter"></a>
+  <a href="https://www.instagram.com/not_saumya_/"><img src="https://skillicons.dev/icons?i=instagram"></a>
+  <a href="https://discord.com/users/saumya_shah_"><img src="https://skillicons.dev/icons?i=discord"></a>
 </p>
 
 ---
