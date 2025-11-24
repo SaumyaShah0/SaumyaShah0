@@ -7,7 +7,7 @@
 
 <!-- ROBOTICS HEADER BANNER (GITHUB SAFE) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robotics-banner.png" width="850" alt="Robotics Banner">
+  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robotics-banner.webp" width="850" alt="Robotics Banner">
 </p>
 
 ---
@@ -71,7 +71,7 @@ into **real-world robotic solutions**.
 
 ## 🎨 Robotics Aesthetic Image  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robotic-desk.png" width="600">
+  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robotic-desk.webp" width="600">
 </p>
 
 ---
@@ -85,5 +85,5 @@ into **real-world robotic solutions**.
 
 <h2 align="center">⚡ Thanks for Visiting ⚡</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robot-wave.gif" width="300">
+  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robot-wave.webp" width="300">
 </p>
