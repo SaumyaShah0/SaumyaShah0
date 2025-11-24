@@ -1,13 +1,13 @@
-<!-- INTRO ANIMATION -->
+<!-- ANIMATED TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I'm+Saumya+Shah;M.Tech+in+Robotics+%26+AI+Student;Robotics+%7C+AI+%7C+ML+%7C+Automation;Always+Building+Something+Cool" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&height=60&lines=Hi+I'm+Saumya+Shah;M.Tech+in+Robotics+%26+AI+Student;Robotics+Enthusiast+%7C+AI+Learner;I+Build+Smart+and+Autonomous+Systems">
 </p>
 
 ---
 
-<!-- ROBOTICS BANNER -->
+<!-- ROBOTICS HEADER BANNER (GITHUB SAFE) -->
 <p align="center">
-  <img src="https://i.imgur.com/9eR1Sdk.jpeg" width="800">
+  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robotics-banner.png" width="850" alt="Robotics Banner">
 </p>
 
 ---
@@ -15,30 +15,38 @@
 # 🤖 Saumya Shah — Robotics & AI Engineer in the Making  
 
 ### 🎓 M.Tech in Robotics & Artificial Intelligence  
-**Nirma University (2025–2027)**  
+**Nirma University — 2025 to 2027**
 
-> Building intelligent machines that *think*, *sense*, and *interact* with the world.
-
----
-
-## ⚡ About Me  
-I’m passionate about **robotics, AI, intelligent control systems, and automation**.  
-My work blends mechanical motion with smart algorithms — creating systems that solve real-world problems.
+> Building intelligent systems that think, sense, move, and make decisions.
 
 ---
 
-## 🔥 What I’m Exploring  
-- 🤖 Robot Manipulators, Kinematics & Dynamics  
-- 🧠 Deep Learning & Reinforcement Learning  
-- 🔧 Control Systems & Optimization  
-- 📡 Sensors, SBCs, and Embedded Robotics  
-- 👁️ Image Processing & Perception Systems  
+## 🌟 About Me  
+I love exploring the intersection of **Robot Mechanics + Machine Intelligence**.  
+My focus is developing systems that combine:
+
+- Motion  
+- Perception  
+- Learning  
+- Automation  
+
+into **real-world robotic solutions**.
 
 ---
 
-## 🛠️ Tech Skills  
+## 🔥 What I'm Learning & Building  
+- 🤖 **Robot Manipulators** (Kinematics, Dynamics, Control)  
+- 🧠 **Deep Learning / Reinforcement Learning**  
+- 📡 **Sensors, SBCs & Actuators**  
+- 👁️ **Digital Image Processing**  
+- 🔧 **Optimization + Control Systems**  
+- 💻 Full-stack dashboards for robotics  
+
+---
+
+## 🛠️ Skills  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,pytorch,linux,raspberrypi,arduino,git,github,react,nodejs,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,pytorch,tensorflow,git,github,raspberrypi,arduino,linux,react,nodejs,js" />
 </p>
 
 ---
@@ -53,29 +61,29 @@ My work blends mechanical motion with smart algorithms — creating systems that
 
 ---
 
-## 💻 Featured Projects  
-- 🤖 **Robot Arm Control & Simulation** – Forward + Inverse Kinematics, control loops  
-- 🧠 **AI/ML Projects** – Classifiers, regressors, and perception models  
-- 🌐 **Quiz App** – API-based dynamic quiz system  
-- ☁️ **Weather App** – Built during internship at ProdigyInfotech  
+## 🧠 Featured Projects  
+- 🤖 **Robot Arm Control & Simulation** (Forward + Inverse Kinematics)  
+- 🧠 **ML/Deep Learning Projects**  
+- 🌐 **Quiz App (API Based)**  
+- ☁️ **Weather Forecasting Web App**  
 
 ---
 
-## ✨ Aesthetic Robotics Wallpaper  
+## 🎨 Robotics Aesthetic Image  
 <p align="center">
-  <img src="https://i.imgur.com/sx7LkXl.jpeg" width="600">
+  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robotic-desk.png" width="600">
 </p>
 
 ---
 
-## 🟩 Contribution Graph  
+## 📊 Contributions  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saumyashah0&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
-<h2 align="center">🔥 Thanks for Visiting 🔥</h2>
+<h2 align="center">⚡ Thanks for Visiting ⚡</h2>
 <p align="center">
-  <img src="https://i.imgur.com/DS0cZ8b.gif" width="300">
+  <img src="https://raw.githubusercontent.com/saumyashah0/saumyashah0/main/assets/robot-wave.gif" width="300">
 </p>
