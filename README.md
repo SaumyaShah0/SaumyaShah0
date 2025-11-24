@@ -1,28 +1,54 @@
-# 👋 Hi there! I'm Saumya Shah
+# 🚀 Saumya Shah — Robotics & AI Engineer in the Making  
 
-### 🌱 About Me
-- 🌍 I’m based in **Ahmedabad**
-- 💻 I’m passionate about **Web Development** and **Data Science**
-- 📚 Currently learning **Angular** and enhancing my skills in **Python for Data Science**
-
-### 🚀 Projects
-- **[Quiz Website](#)**: A web application that uses an API to fetch questions and displays results at the end. Users can choose from multiple categories.
-- **[Weather Forecasting Web App](#)**: A project developed during my internship at ProdigyInfotech.
-
-### 💼 Experience
-- **Internship at ProdigyInfotech** (Jan 2024 - Feb 2024)
-- **Internship at TatvaSoft** (May 2024 - June 2024)
-
-### 🏆 Certificates
-- Programming in C - GCTI
-- Programming in C++ - GCTI
-- Python for Data Science - NPTEL
-
-### 📫 Contact Me
-- 📧 Email: [saumyashah516@gmail.com](mailto:saumyashah516@gmail.com)
-- 🔗 [LinkedIn](#) | [X](#)
+### 🤖 M.Tech in Robotics & Artificial Intelligence  
+**Nirma University (2025–2027)**  
+Building intelligent systems that *think*, *sense*, and *move*.
 
 ---
 
-### 🎨 Welcome to My GitHub Profile!
-I love coding and creating amazing projects!
+## 🌟 About Me  
+I’m a tech enthusiast driven by curiosity for **robots, algorithms, and intelligent automation**.  
+From writing clean software to controlling robotic arms, I love creating systems that bridge the gap between the digital and physical world.
+
+---
+
+## 🔥 What I’m Currently Exploring  
+- 🤖 **Robot Manipulators & Mobile Robots**  
+- 🧠 **Reinforcement Learning & Deep Learning**  
+- 🎯 **Optimization & Control Systems**  
+- 📸 **Digital Image Processing**  
+- 💻 Full-stack development for robotics dashboards & tools  
+
+---
+
+## 🛠️ Featured Projects  
+- 🔹 **Robot Arm Control & Simulation** — Kinematics, control, and real-time manipulation  
+- 🔹 **Quiz App (API-Based)** — Dynamic category selection, result analytics  
+- 🔹 **Weather Forecasting Web App** — Built during internship at ProdigyInfotech  
+- 🔹 *More M.Tech projects coming soon…*  
+
+---
+
+## 💼 Experience  
+- **ProdigyInfotech – Software Intern** *(Jan 2024 – Feb 2024)*  
+- **TatvaSoft – Developer Intern** *(May 2024 – Jun 2024)*  
+
+---
+
+## 🏆 Certifications  
+- C Programming – GCTI  
+- C++ Programming – GCTI  
+- Python for Data Science – NPTEL  
+
+---
+
+## 📬 Let’s Connect  
+- 📧 **Email:** saumyashah516@gmail.com  
+- 🔗 **LinkedIn:** *(add your link)*  
+- 🐦 **X (Twitter):** *(add your link)*  
+
+---
+
+## 🌌 Thanks for visiting!  
+I’m constantly building, learning, and improving.  
+**Exciting robotics & AI projects are on the way — stay tuned.**
